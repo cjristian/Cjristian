@@ -1,16 +1,39 @@
-<h1 align="center">Hi 👋, I'm Cristian Javier Jimenez Sarango</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<div id="header" align="center">
+    <p align="center">
+    <h1 align="center">Hi, I'm Cristian Javier</h1>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20to be full%20stack web dev;Studying%20Python%20right %20now&font=consolas%20Code&center=true&width=440&height=45&color=#000000&vCenter=true&pause=1000&size=22" />
+</p>
+    <h3 align="left">Becoming a full-stack web developer, originally from Spain. Proficient in HTML/CSS, JavaScript, React, TypeScript, Python, PHP... Excited about learning and ready to contribute to interesting projects.</h3>
+</div>
 
-- 🔭 I’m currently working **personal_project**
 
-- 🌱 I’m currently learning **Frameworks,some languajes for example phyton**
-
-- 👯 I’m looking to collaborate on **projects_basic**
-
-- 💬 Ask me about **react**
+### 👨‍💻 About Me :
 
 - 📫 How to reach me **cjristian.jimenez@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
 
+- 🌱 I’m currently learning **Web Development at a Higher Education Level in Madrid**
+
+### 🔨 Languages and Tools:
+<div align="left">
+    <div>
+        <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript,typescript,bootstrap"/><br>
+        <img src="https://skillicons.dev/icons?i=php,python,nodejs,express,java,mysql,bash" /><br>
+        <img src="https://skillicons.dev/icons?i=wordpress,figma,bun,linux,github,git" /><br>
+    </div>
+</div>
+
+---
+### ⚡ Stats :
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=leid04&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=leid04&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=leid04&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="www.linkedin.com/in/cristian-javier-jimenez-004857272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denys revutskyi" height="100" width="200" /></a>
+</p>
