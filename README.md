@@ -1,7 +1,6 @@
 <div id="header" align="center">
     <p align="center">
     <h1 align="center">Hi, I'm Cristian Javier</h1>
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20to be full%20stack web dev;Studying%20Python%20right %20now&font=consolas%20Code&center=true&width=440&height=45&color=#000000&vCenter=true&pause=1000&size=22" />
 </p>
     <h3 align="left">Becoming a full-stack web developer, originally from Spain. Proficient in HTML/CSS, JavaScript, React, TypeScript, Python, PHP... Excited about learning and ready to contribute to interesting projects.</h3>
 </div>
@@ -18,8 +17,8 @@
 <div align="left">
     <div>
         <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,javascript,typescript,bootstrap"/><br>
-        <img src="https://skillicons.dev/icons?i=php,python,nodejs,express,java,mysql,bash" /><br>
-        <img src="https://skillicons.dev/icons?i=wordpress,figma,bun,linux,github,git" /><br>
+        <img src="https://skillicons.dev/icons?i=php,python,nodejs,java,mysql,bash" /><br>
+        <img src="https://skillicons.dev/icons?i=wordpress,linux,github,git" /><br>
     </div>
 </div>
 
